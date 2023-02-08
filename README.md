@@ -8,10 +8,12 @@ Player's task is to change the sequence of numbers same as the winning situation
 
 # How to Play
 1) You are given a 4x4 matrix with random values filled. 
+
 e.g. ![image](https://user-images.githubusercontent.com/90852084/217585912-17583efe-bfed-4885-8a05-c04c9c6aa743.png)
 
 
 2) You have to convert this random matrix to matrix which looks like this 
+
 ![image](https://user-images.githubusercontent.com/90852084/217586145-015e0731-1494-4b12-aeaa-dc4573a7253a.png)
 
 # Game Rules -
